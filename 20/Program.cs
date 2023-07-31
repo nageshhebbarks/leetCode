@@ -1,4 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿// See https://leetcode.com/problems/valid-parentheses for details about question
 using System.Runtime.InteropServices;
 
 var sol = new Solution();
